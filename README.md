@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghost Child
+- 👋 Hi, I’m @KumarDhruv
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me support@kumardhruv.gq
